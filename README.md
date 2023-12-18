@@ -1,9 +1,9 @@
 
 
-<h1 align="center" font-size=72>Hello , I'm <strong>Udaysantoshkumar</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
+<h1 align="center" font-size=72>Hello , I'm <strong>Dhanush</strong> <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></strong></h1>
 <h3 align="center">A passionate developer solving real-world problems using technology.</h3>
 # 💫 About Me:
-🔭 I’m currently working on Django Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, Android Development, React & Angular<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>👨‍💻 All of my projects are available at https://github.com/udaysk3<br><br>💬 Ask me about Django, REST API, and Web Development<br><br>📫 How to reach me burluudaysantoshkumar3@gmail.com<br><br>📄 Know about my experiences https://bit.ly/uday_sep_resume<br><br>⚡ Fun fact I love movies
+🔭 I’m currently working on Full Stack Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, React<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>👨‍💻 All of my projects are available at https://github.com/dhanushramudri<br><br>💬 Ask me about  MERN stack , REST API, and Web Development<br><br>📫 How to reach me ramudridhanush@gmail.com<br><br>📄 Know about my experiences https://bit.ly/dhanushramudri<br>
 
 
 ## 🌐 Socials:
@@ -25,8 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=udaysk3&icon=5&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/udaysk3) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
